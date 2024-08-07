@@ -5,7 +5,6 @@ import CommentList from "../list/CommentList";
 import TextInput from "../ui/TextInput";
 import Button from "../ui/Button";
 import data from "../../data.json";
-import CommentListItem from "../list/CommentListItem";
 
 const Wrapper = styled.div`
     padding: 16px;
